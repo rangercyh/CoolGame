@@ -1,4 +1,4 @@
-cool_game
+CoolGame
 =========
 
 a cool game master
