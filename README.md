@@ -3,4 +3,4 @@ CoolGame
 
 a cool game master
 
-use google code style
+using google code style
